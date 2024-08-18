@@ -36,5 +36,11 @@
 	<TD.SettingStockUpReturn>Devolver los objetos si no hay suficientes disponibles</TD.SettingStockUpReturn>
 	<TD.Paused>Pausado</TD.Paused>
 	<TD.NotEnoughStockUp>No hay suficiente disponible para abastecerse</TD.NotEnoughStockUp>
-	
+	<TD.SettingGlobalSurgeryUnlimited>Los parámetros médicos por defecto para un nuevo juego tienen marcada la opción "Uso del mejor medicamento para una cirugía"</TD.SettingGlobalSurgeryUnlimited>
+   <TD.SettingGlobalSurgeryUnlimitedDesc>Durante una partida, este parámetro no se utiliza: el valor por defecto para los nuevos colonos está junto a otros parámetros médicos predeterminados accesibles en la pestaña de Salud</TD.SettingGlobalSurgeryUnlimitedDesc>
+	<TD.DefaultSurgeryUnlimited>La cirugía usa el mejor medicamento disponible</TD.DefaultSurgeryUnlimited>
+	<TD.PawnSettingSurgeryUnlimited>El mejor cuidado</TD.PawnSettingSurgeryUnlimited>
+	<TD.DefaultCare>Cuidado por defecto</TD.DefaultCare>
+	<TD.RemoveTempTendDesc>Elimínelo (en caso de que persista después de no ser utilizado)</TD.RemoveTempTendDesc>
+
 </LanguageData>

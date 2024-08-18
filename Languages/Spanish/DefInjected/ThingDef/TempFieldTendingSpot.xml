@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: temporary tending spot -->
+	<TempSleepSpot.label>lugar de atención temporal</TempSleepSpot.label>
+  <!-- EN: Automatically created by Smart Medicine to tend in the field. Removes itself when not used. -->
+	<TempSleepSpot.description>Creado automáticamente por Smart Medicine para atender en el campo. Se elimina automáticamente cuando no se utiliza.</TempSleepSpot.description>
+
+</LanguageData>
